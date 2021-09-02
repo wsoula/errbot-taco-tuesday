@@ -14,9 +14,9 @@ class Tacotuesday(BotPlugin):
             'https://www.icegif.com/wp-content/uploads/icegif-3463.gif',
             'https://mkwishes.com/wp-content/uploads/2021/01/Good-Morning-Tuesday1.gif',
             'https://mkwishes.com/wp-content/uploads/2021/04/Good-Morning-Tuesday19.gif',
-            'https://c.tenor.com/4GPy7EP_4i8AAAAd/happy-taco-tuesday-cat.gif',
             'https://c.tenor.com/yXU2_012aB4AAAAC/taco-tuesday.gif',
-            'https://c.tenor.com/5oHfBsoa6EcAAAAC/taco-tuesday-time.gif'
+            'https://c.tenor.com/5oHfBsoa6EcAAAAC/taco-tuesday-time.gif',
+            'https://i.imgur.com/2t9KtNZ.gif'
         ]
         self.send_card(
             in_reply_to=msg,
