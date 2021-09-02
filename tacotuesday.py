@@ -11,7 +11,14 @@ class Tacotuesday(BotPlugin):
         """Send gif"""
         urls = [
             'https://66.media.tumblr.com/f1449d030ffb2a856b2ec8fe6ece0798/tumblr_pw6x3nggXd1ue1d0so1_500.gif', # noqa
-            'https://www.icegif.com/wp-content/uploads/icegif-3463.gif'
+            'https://www.icegif.com/wp-content/uploads/icegif-3463.gif',
+            'https://mkwishes.com/wp-content/uploads/2021/01/Good-Morning-Tuesday1.gif',
+            'https://mkwishes.com/wp-content/uploads/2021/04/Good-Morning-Tuesday19.gif',
+            'https://media.tenor.com/images/67b7c709ca2fe0ac4918531806868e29/tenor.gif',
+            'https://c.tenor.com/-KS-D-Z51SoAAAAC/happy-taco-day-flying-taco.gif',
+            'https://c.tenor.com/4GPy7EP_4i8AAAAd/happy-taco-tuesday-cat.gif',
+            'https://c.tenor.com/yXU2_012aB4AAAAC/taco-tuesday.gif',
+            'https://c.tenor.com/5oHfBsoa6EcAAAAC/taco-tuesday-time.gif'
         ]
         self.send_card(
             in_reply_to=msg,
