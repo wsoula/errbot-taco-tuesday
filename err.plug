@@ -1,0 +1,9 @@
+[Core]
+Name = Tacotuesday
+Module = tacotuesday
+
+[Documentation]
+Description = Respond with a random Taco Tuesday gif
+
+[Python]
+Version = 3
